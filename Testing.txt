@@ -1,1 +1,1 @@
-Testing Github Connection -> Successful
+Testing Github Connection -> Successful Connection
